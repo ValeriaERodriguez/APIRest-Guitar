@@ -1,0 +1,16 @@
+{
+    "guitars":{
+        "1":{
+            "name": "Fender",
+            "model": "Telecaster",
+            "year": "150"
+
+        },
+        "2":{
+            "name": "Fender",
+            "model": "Telecaster",
+            "year": "150"
+
+        }
+    }
+}

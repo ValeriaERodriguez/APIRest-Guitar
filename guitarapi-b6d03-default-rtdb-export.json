@@ -1,0 +1,14 @@
+{
+  "guitars": {
+    "1": {
+      "model": "Telecaster",
+      "name": "Fender",
+      "year": "150"
+    },
+    "-NQ0WqVdc2knirmLqSLp": {
+      "model": "Les paul",
+      "name": "Gibson",
+      "year": "1952"
+    }
+  }
+}
